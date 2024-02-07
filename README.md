@@ -1,7 +1,8 @@
 # MovieRecommendationSystem_-_SentimentAnalysis
 Content based Movie-Recommendation-System with Sentiment-Analysis on User review
 
-
+### User Interface
+<img width="724" alt="image" src="https://github.com/Rasika-Gulhane/MovieRecommendationSystem_-_SentimentAnalysis/assets/67581952/283136a7-8b99-4406-8808-2276415e471f">
 
 
 ### How to get the API key?
