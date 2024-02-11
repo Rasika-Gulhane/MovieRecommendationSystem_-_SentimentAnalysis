@@ -4,6 +4,8 @@ Content based Movie-Recommendation-System with Sentiment-Analysis on User review
 ### User Interface
 <img width="724" alt="image" src="https://github.com/Rasika-Gulhane/MovieRecommendationSystem_-_SentimentAnalysis/assets/67581952/283136a7-8b99-4406-8808-2276415e471f">
 
+### Demo
+[![Demo Recording](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://ooo.mmhmm.app/watch/z_gA36jGzh037Zmzexp3NA))
 
 ### How to get the API key?
 Create an account in https://www.themoviedb.org/, click on the API link from the left hand sidebar in your account settings and fill all the details to apply for API key. You will see the API key in your API sidebar once your request is approved.
