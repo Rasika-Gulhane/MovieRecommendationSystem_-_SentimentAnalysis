@@ -27,5 +27,8 @@ Create an account in https://www.themoviedb.org/, click on the API link from the
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 
 ### Report & Presentation:
-[Presentation](https://docs.google.com/presentation/d/1Q4kVuKgkhYnE5OtGM7CJv3cTqQI0sG5WtZZK1gm40X0/edit#slide=id.g2404a352eb8_0_123)
+[Presentation](https://docs.google.com/presentation/d/1cHB04sV2VNEzbxTfOxnaC1685eEnciuJaqUA660QvJk/edit#slide=id.g2404a352eb8_0_123)
+
 [Report] (https://docs.google.com/document/d/1X6voWkTrlXWkiq5NXNkgu2WYgGSpdfhRDzQTgID6ukY/edit)
+
+
