@@ -29,6 +29,6 @@ Create an account in https://www.themoviedb.org/, click on the API link from the
 ### Report & Presentation:
 [Presentation](https://docs.google.com/presentation/d/1cHB04sV2VNEzbxTfOxnaC1685eEnciuJaqUA660QvJk/edit#slide=id.g2404a352eb8_0_123)
 
-[Report] (https://docs.google.com/document/d/1X6voWkTrlXWkiq5NXNkgu2WYgGSpdfhRDzQTgID6ukY/edit)
+[Report](https://docs.google.com/document/d/1X6voWkTrlXWkiq5NXNkgu2WYgGSpdfhRDzQTgID6ukY/edit)
 
 
